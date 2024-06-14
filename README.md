@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there! I'm [Jack Collett](https://www.linkedin.com/in/jack-collett/)👋
 
-<!--
-**JackCollett/JackCollett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An ambitious software engineer, recently graduated from the Makers Software Development Bootcamp. Being a life-long tech ethusiast with a business-oriented background has led me to this exciting avenue. Future advancements and developments in technology excites me to keep exploring new ideas and envisige new possibilties.  
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| **[The Neurons](https://github.com/tomgame984/The-Neurons)**               | A webapp to track cognitive and emotional energy levels| MongoDB, Express.js, React, Node.js, Vitest, Jest |
+| **[MakersBnb](https://github.com/tahmidachoudhury/makersbnb-python-tangerine)**                 | An AirBnb styled webapp that allows users to book rooms for the night | Python, HTML, CSS, Pytest, PostgreSQL, Playwright |
+| **[Acebook](https://github.com/JackCollett/Acebook)** | A Facebook styled webapp that allows users to Log in, create posts, like and comment | MongoDB, Express.js, React, Node.js, Jest             |
+
+*Check out my [GitHub CV](https://github.com/JackCollett/CV)*
