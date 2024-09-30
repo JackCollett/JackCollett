@@ -1,6 +1,6 @@
 ## Hi there! I'm [Jack Collett](https://www.linkedin.com/in/jack-collett/)👋
 
-An ambitious software engineer, recently graduated from the Makers Software Development Bootcamp. Being a life-long tech ethusiast with a business-oriented background has led me to this exciting avenue. Future advancements and developments in technology excites me to keep exploring new ideas and envisige new possibilties.  
+An ambitious software engineer, recently graduated from the Makers Software Development Bootcamp. Being a life-long tech ethusiast with a business-oriented background has led me to this exciting avenue. Future advancements and developments in technology excites me to keep exploring new ideas and envisige new possibilities.  
 
 ## Projects
 
